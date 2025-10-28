@@ -42,7 +42,6 @@
       ],
       "expo-asset",
       "expo-build-properties",
-      "expo-secure-store",
       "expo-tracking-transparency",
       "expo-video"
     ],
